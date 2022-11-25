@@ -1,0 +1,1357 @@
+﻿[
+    {
+        "year": "1750",
+        "annual_anomaly": "0.183",
+        "five-year_anomaly": "nan"
+    },
+    {
+        "year": "1751",
+        "annual_anomaly": "1.075",
+        "five-year_anomaly": "nan"
+    },
+    {
+        "year": "1753",
+        "annual_anomaly": "0.104",
+        "five-year_anomaly": "nan"
+    },
+    {
+        "year": "1754",
+        "annual_anomaly": "0.785",
+        "five-year_anomaly": "nan"
+    },
+    {
+        "year": "1755",
+        "annual_anomaly": "1.062",
+        "five-year_anomaly": "0.928"
+    },
+    {
+        "year": "1756",
+        "annual_anomaly": "1.305",
+        "five-year_anomaly": "0.888"
+    },
+    {
+        "year": "1757",
+        "annual_anomaly": "1.382",
+        "five-year_anomaly": "0.874"
+    },
+    {
+        "year": "1758",
+        "annual_anomaly": "-0.093",
+        "five-year_anomaly": "0.436"
+    },
+    {
+        "year": "1759",
+        "annual_anomaly": "0.714",
+        "five-year_anomaly": "0.281"
+    },
+    {
+        "year": "1760",
+        "annual_anomaly": "-1.129",
+        "five-year_anomaly": "0.152"
+    },
+    {
+        "year": "1761",
+        "annual_anomaly": "0.531",
+        "five-year_anomaly": "0.236"
+    },
+    {
+        "year": "1762",
+        "annual_anomaly": "0.739",
+        "five-year_anomaly": "0.37"
+    },
+    {
+        "year": "1763",
+        "annual_anomaly": "0.326",
+        "five-year_anomaly": "0.538"
+    },
+    {
+        "year": "1764",
+        "annual_anomaly": "1.382",
+        "five-year_anomaly": "0.435"
+    },
+    {
+        "year": "1765",
+        "annual_anomaly": "-0.289",
+        "five-year_anomaly": "0.276"
+    },
+    {
+        "year": "1766",
+        "annual_anomaly": "0.014",
+        "five-year_anomaly": "-0.128"
+    },
+    {
+        "year": "1767",
+        "annual_anomaly": "-0.056",
+        "five-year_anomaly": "-0.58"
+    },
+    {
+        "year": "1768",
+        "annual_anomaly": "-1.69",
+        "five-year_anomaly": "-0.71"
+    },
+    {
+        "year": "1769",
+        "annual_anomaly": "-0.877",
+        "five-year_anomaly": "-0.874"
+    },
+    {
+        "year": "1770",
+        "annual_anomaly": "-0.943",
+        "five-year_anomaly": "-0.859"
+    },
+    {
+        "year": "1771",
+        "annual_anomaly": "-0.804",
+        "five-year_anomaly": "-0.593"
+    },
+    {
+        "year": "1772",
+        "annual_anomaly": "0.022",
+        "five-year_anomaly": "-0.393"
+    },
+    {
+        "year": "1773",
+        "annual_anomaly": "-0.36",
+        "five-year_anomaly": "-0.245"
+    },
+    {
+        "year": "1774",
+        "annual_anomaly": "0.121",
+        "five-year_anomaly": "-0.356"
+    },
+    {
+        "year": "1775",
+        "annual_anomaly": "-0.203",
+        "five-year_anomaly": "-0.684"
+    },
+    {
+        "year": "1776",
+        "annual_anomaly": "-1.359",
+        "five-year_anomaly": "-0.925"
+    },
+    {
+        "year": "1777",
+        "annual_anomaly": "-1.619",
+        "five-year_anomaly": "-1.122"
+    },
+    {
+        "year": "1778",
+        "annual_anomaly": "-1.566",
+        "five-year_anomaly": "-1.314"
+    },
+    {
+        "year": "1779",
+        "annual_anomaly": "-0.863",
+        "five-year_anomaly": "-1.345"
+    },
+    {
+        "year": "1780",
+        "annual_anomaly": "-1.162",
+        "five-year_anomaly": "-1.277"
+    },
+    {
+        "year": "1781",
+        "annual_anomaly": "-1.516",
+        "five-year_anomaly": "-1.386"
+    },
+    {
+        "year": "1782",
+        "annual_anomaly": "-1.279",
+        "five-year_anomaly": "-1.556"
+    },
+    {
+        "year": "1783",
+        "annual_anomaly": "-2.109",
+        "five-year_anomaly": "-1.625"
+    },
+    {
+        "year": "1784",
+        "annual_anomaly": "-1.714",
+        "five-year_anomaly": "-1.515"
+    },
+    {
+        "year": "1785",
+        "annual_anomaly": "-1.508",
+        "five-year_anomaly": "-1.472"
+    },
+    {
+        "year": "1786",
+        "annual_anomaly": "-0.964",
+        "five-year_anomaly": "-1.293"
+    },
+    {
+        "year": "1787",
+        "annual_anomaly": "-1.062",
+        "five-year_anomaly": "-1.096"
+    },
+    {
+        "year": "1788",
+        "annual_anomaly": "-1.216",
+        "five-year_anomaly": "-0.972"
+    },
+    {
+        "year": "1789",
+        "annual_anomaly": "-0.727",
+        "five-year_anomaly": "-0.882"
+    },
+    {
+        "year": "1790",
+        "annual_anomaly": "-0.892",
+        "five-year_anomaly": "-0.801"
+    },
+    {
+        "year": "1791",
+        "annual_anomaly": "-0.512",
+        "five-year_anomaly": "-0.625"
+    },
+    {
+        "year": "1792",
+        "annual_anomaly": "-0.655",
+        "five-year_anomaly": "-0.405"
+    },
+    {
+        "year": "1793",
+        "annual_anomaly": "-0.339",
+        "five-year_anomaly": "-0.168"
+    },
+    {
+        "year": "1794",
+        "annual_anomaly": "0.376",
+        "five-year_anomaly": "-0.172"
+    },
+    {
+        "year": "1795",
+        "annual_anomaly": "0.292",
+        "five-year_anomaly": "-0.071"
+    },
+    {
+        "year": "1796",
+        "annual_anomaly": "-0.535",
+        "five-year_anomaly": "-0.053"
+    },
+    {
+        "year": "1797",
+        "annual_anomaly": "-0.148",
+        "five-year_anomaly": "-0.334"
+    },
+    {
+        "year": "1798",
+        "annual_anomaly": "-0.251",
+        "five-year_anomaly": "-0.572"
+    },
+    {
+        "year": "1799",
+        "annual_anomaly": "-1.029",
+        "five-year_anomaly": "-0.478"
+    },
+    {
+        "year": "1800",
+        "annual_anomaly": "-0.897",
+        "five-year_anomaly": "-0.494"
+    },
+    {
+        "year": "1801",
+        "annual_anomaly": "-0.064",
+        "five-year_anomaly": "-0.543"
+    },
+    {
+        "year": "1802",
+        "annual_anomaly": "-0.227",
+        "five-year_anomaly": "-0.384"
+    },
+    {
+        "year": "1803",
+        "annual_anomaly": "-0.497",
+        "five-year_anomaly": "-0.265"
+    },
+    {
+        "year": "1804",
+        "annual_anomaly": "-0.236",
+        "five-year_anomaly": "-0.297"
+    },
+    {
+        "year": "1805",
+        "annual_anomaly": "-0.303",
+        "five-year_anomaly": "-0.344"
+    },
+    {
+        "year": "1806",
+        "annual_anomaly": "-0.223",
+        "five-year_anomaly": "-0.418"
+    },
+    {
+        "year": "1807",
+        "annual_anomaly": "-0.461",
+        "five-year_anomaly": "-0.672"
+    },
+    {
+        "year": "1808",
+        "annual_anomaly": "-0.866",
+        "five-year_anomaly": "-1.022"
+    },
+    {
+        "year": "1809",
+        "annual_anomaly": "-1.508",
+        "five-year_anomaly": "-1.412"
+    },
+    {
+        "year": "1810",
+        "annual_anomaly": "-2.054",
+        "five-year_anomaly": "-1.671"
+    },
+    {
+        "year": "1811",
+        "annual_anomaly": "-2.169",
+        "five-year_anomaly": "-1.657"
+    },
+    {
+        "year": "1812",
+        "annual_anomaly": "-1.76",
+        "five-year_anomaly": "-1.512"
+    },
+    {
+        "year": "1813",
+        "annual_anomaly": "-0.794",
+        "five-year_anomaly": "-1.41"
+    },
+    {
+        "year": "1814",
+        "annual_anomaly": "-0.783",
+        "five-year_anomaly": "-1.21"
+    },
+    {
+        "year": "1815",
+        "annual_anomaly": "-1.542",
+        "five-year_anomaly": "-0.995"
+    },
+    {
+        "year": "1816",
+        "annual_anomaly": "-1.171",
+        "five-year_anomaly": "-0.772"
+    },
+    {
+        "year": "1817",
+        "annual_anomaly": "-0.683",
+        "five-year_anomaly": "-0.59"
+    },
+    {
+        "year": "1818",
+        "annual_anomaly": "0.319",
+        "five-year_anomaly": "-0.215"
+    },
+    {
+        "year": "1819",
+        "annual_anomaly": "0.127",
+        "five-year_anomaly": "0.132"
+    },
+    {
+        "year": "1820",
+        "annual_anomaly": "0.334",
+        "five-year_anomaly": "0.275"
+    },
+    {
+        "year": "1821",
+        "annual_anomaly": "0.564",
+        "five-year_anomaly": "0.161"
+    },
+    {
+        "year": "1822",
+        "annual_anomaly": "0.032",
+        "five-year_anomaly": "0.182"
+    },
+    {
+        "year": "1823",
+        "annual_anomaly": "-0.252",
+        "five-year_anomaly": "0.127"
+    },
+    {
+        "year": "1824",
+        "annual_anomaly": "0.232",
+        "five-year_anomaly": "0.057"
+    },
+    {
+        "year": "1825",
+        "annual_anomaly": "0.057",
+        "five-year_anomaly": "0.166"
+    },
+    {
+        "year": "1826",
+        "annual_anomaly": "0.214",
+        "five-year_anomaly": "0.228"
+    },
+    {
+        "year": "1827",
+        "annual_anomaly": "0.58",
+        "five-year_anomaly": "0.158"
+    },
+    {
+        "year": "1828",
+        "annual_anomaly": "0.057",
+        "five-year_anomaly": "0.232"
+    },
+    {
+        "year": "1829",
+        "annual_anomaly": "-0.117",
+        "five-year_anomaly": "0.099"
+    },
+    {
+        "year": "1830",
+        "annual_anomaly": "0.428",
+        "five-year_anomaly": "-0.131"
+    },
+    {
+        "year": "1831",
+        "annual_anomaly": "-0.453",
+        "five-year_anomaly": "-0.133"
+    },
+    {
+        "year": "1832",
+        "annual_anomaly": "-0.57",
+        "five-year_anomaly": "-0.097"
+    },
+    {
+        "year": "1833",
+        "annual_anomaly": "0.046",
+        "five-year_anomaly": "-0.301"
+    },
+    {
+        "year": "1834",
+        "annual_anomaly": "0.066",
+        "five-year_anomaly": "-0.293"
+    },
+    {
+        "year": "1835",
+        "annual_anomaly": "-0.596",
+        "five-year_anomaly": "-0.328"
+    },
+    {
+        "year": "1836",
+        "annual_anomaly": "-0.413",
+        "five-year_anomaly": "-0.453"
+    },
+    {
+        "year": "1837",
+        "annual_anomaly": "-0.741",
+        "five-year_anomaly": "-0.587"
+    },
+    {
+        "year": "1838",
+        "annual_anomaly": "-0.579",
+        "five-year_anomaly": "-0.559"
+    },
+    {
+        "year": "1839",
+        "annual_anomaly": "-0.608",
+        "five-year_anomaly": "-0.617"
+    },
+    {
+        "year": "1840",
+        "annual_anomaly": "-0.456",
+        "five-year_anomaly": "-0.531"
+    },
+    {
+        "year": "1841",
+        "annual_anomaly": "-0.701",
+        "five-year_anomaly": "-0.429"
+    },
+    {
+        "year": "1842",
+        "annual_anomaly": "-0.313",
+        "five-year_anomaly": "-0.455"
+    },
+    {
+        "year": "1843",
+        "annual_anomaly": "-0.068",
+        "five-year_anomaly": "-0.462"
+    },
+    {
+        "year": "1844",
+        "annual_anomaly": "-0.736",
+        "five-year_anomaly": "-0.289"
+    },
+    {
+        "year": "1845",
+        "annual_anomaly": "-0.491",
+        "five-year_anomaly": "-0.284"
+    },
+    {
+        "year": "1846",
+        "annual_anomaly": "0.163",
+        "five-year_anomaly": "-0.364"
+    },
+    {
+        "year": "1847",
+        "annual_anomaly": "-0.289",
+        "five-year_anomaly": "-0.31"
+    },
+    {
+        "year": "1848",
+        "annual_anomaly": "-0.469",
+        "five-year_anomaly": "-0.338"
+    },
+    {
+        "year": "1849",
+        "annual_anomaly": "-0.465",
+        "five-year_anomaly": "-0.418"
+    },
+    {
+        "year": "1850",
+        "annual_anomaly": "-0.631",
+        "five-year_anomaly": "-0.4"
+    },
+    {
+        "year": "1851",
+        "annual_anomaly": "-0.237",
+        "five-year_anomaly": "-0.358"
+    },
+    {
+        "year": "1852",
+        "annual_anomaly": "-0.198",
+        "five-year_anomaly": "-0.259"
+    },
+    {
+        "year": "1853",
+        "annual_anomaly": "-0.257",
+        "five-year_anomaly": "-0.153"
+    },
+    {
+        "year": "1854",
+        "annual_anomaly": "0.026",
+        "five-year_anomaly": "-0.123"
+    },
+    {
+        "year": "1855",
+        "annual_anomaly": "-0.097",
+        "five-year_anomaly": "-0.146"
+    },
+    {
+        "year": "1856",
+        "annual_anomaly": "-0.09",
+        "five-year_anomaly": "-0.111"
+    },
+    {
+        "year": "1857",
+        "annual_anomaly": "-0.31",
+        "five-year_anomaly": "-0.101"
+    },
+    {
+        "year": "1858",
+        "annual_anomaly": "-0.083",
+        "five-year_anomaly": "-0.184"
+    },
+    {
+        "year": "1859",
+        "annual_anomaly": "0.076",
+        "five-year_anomaly": "-0.279"
+    },
+    {
+        "year": "1860",
+        "annual_anomaly": "-0.513",
+        "five-year_anomaly": "-0.411"
+    },
+    {
+        "year": "1861",
+        "annual_anomaly": "-0.565",
+        "five-year_anomaly": "-0.485"
+    },
+    {
+        "year": "1862",
+        "annual_anomaly": "-0.967",
+        "five-year_anomaly": "-0.605"
+    },
+    {
+        "year": "1863",
+        "annual_anomaly": "-0.456",
+        "five-year_anomaly": "-0.546"
+    },
+    {
+        "year": "1864",
+        "annual_anomaly": "-0.524",
+        "five-year_anomaly": "-0.469"
+    },
+    {
+        "year": "1865",
+        "annual_anomaly": "-0.218",
+        "five-year_anomaly": "-0.283"
+    },
+    {
+        "year": "1866",
+        "annual_anomaly": "-0.18",
+        "five-year_anomaly": "-0.25"
+    },
+    {
+        "year": "1867",
+        "annual_anomaly": "-0.036",
+        "five-year_anomaly": "-0.157"
+    },
+    {
+        "year": "1868",
+        "annual_anomaly": "-0.295",
+        "five-year_anomaly": "-0.19"
+    },
+    {
+        "year": "1869",
+        "annual_anomaly": "-0.058",
+        "five-year_anomaly": "-0.241"
+    },
+    {
+        "year": "1870",
+        "annual_anomaly": "-0.381",
+        "five-year_anomaly": "-0.312"
+    },
+    {
+        "year": "1871",
+        "annual_anomaly": "-0.437",
+        "five-year_anomaly": "-0.304"
+    },
+    {
+        "year": "1872",
+        "annual_anomaly": "-0.388",
+        "five-year_anomaly": "-0.316"
+    },
+    {
+        "year": "1873",
+        "annual_anomaly": "-0.253",
+        "five-year_anomaly": "-0.356"
+    },
+    {
+        "year": "1874",
+        "annual_anomaly": "-0.122",
+        "five-year_anomaly": "-0.333"
+    },
+    {
+        "year": "1875",
+        "annual_anomaly": "-0.578",
+        "five-year_anomaly": "-0.246"
+    },
+    {
+        "year": "1876",
+        "annual_anomaly": "-0.322",
+        "five-year_anomaly": "-0.118"
+    },
+    {
+        "year": "1877",
+        "annual_anomaly": "0.043",
+        "five-year_anomaly": "-0.16"
+    },
+    {
+        "year": "1878",
+        "annual_anomaly": "0.388",
+        "five-year_anomaly": "-0.151"
+    },
+    {
+        "year": "1879",
+        "annual_anomaly": "-0.33",
+        "five-year_anomaly": "-0.144"
+    },
+    {
+        "year": "1880",
+        "annual_anomaly": "-0.534",
+        "five-year_anomaly": "-0.238"
+    },
+    {
+        "year": "1881",
+        "annual_anomaly": "-0.287",
+        "five-year_anomaly": "-0.426"
+    },
+    {
+        "year": "1882",
+        "annual_anomaly": "-0.425",
+        "five-year_anomaly": "-0.508"
+    },
+    {
+        "year": "1883",
+        "annual_anomaly": "-0.556",
+        "five-year_anomaly": "-0.518"
+    },
+    {
+        "year": "1884",
+        "annual_anomaly": "-0.739",
+        "five-year_anomaly": "-0.581"
+    },
+    {
+        "year": "1885",
+        "annual_anomaly": "-0.581",
+        "five-year_anomaly": "-0.621"
+    },
+    {
+        "year": "1886",
+        "annual_anomaly": "-0.605",
+        "five-year_anomaly": "-0.593"
+    },
+    {
+        "year": "1887",
+        "annual_anomaly": "-0.623",
+        "five-year_anomaly": "-0.489"
+    },
+    {
+        "year": "1888",
+        "annual_anomaly": "-0.416",
+        "five-year_anomaly": "-0.485"
+    },
+    {
+        "year": "1889",
+        "annual_anomaly": "-0.219",
+        "five-year_anomaly": "-0.469"
+    },
+    {
+        "year": "1890",
+        "annual_anomaly": "-0.56",
+        "five-year_anomaly": "-0.447"
+    },
+    {
+        "year": "1891",
+        "annual_anomaly": "-0.528",
+        "five-year_anomaly": "-0.469"
+    },
+    {
+        "year": "1892",
+        "annual_anomaly": "-0.513",
+        "five-year_anomaly": "-0.5"
+    },
+    {
+        "year": "1893",
+        "annual_anomaly": "-0.526",
+        "five-year_anomaly": "-0.466"
+    },
+    {
+        "year": "1894",
+        "annual_anomaly": "-0.375",
+        "five-year_anomaly": "-0.426"
+    },
+    {
+        "year": "1895",
+        "annual_anomaly": "-0.391",
+        "five-year_anomaly": "-0.369"
+    },
+    {
+        "year": "1896",
+        "annual_anomaly": "-0.324",
+        "five-year_anomaly": "-0.342"
+    },
+    {
+        "year": "1897",
+        "annual_anomaly": "-0.228",
+        "five-year_anomaly": "-0.289"
+    },
+    {
+        "year": "1898",
+        "annual_anomaly": "-0.392",
+        "five-year_anomaly": "-0.217"
+    },
+    {
+        "year": "1899",
+        "annual_anomaly": "-0.11",
+        "five-year_anomaly": "-0.157"
+    },
+    {
+        "year": "1900",
+        "annual_anomaly": "-0.032",
+        "five-year_anomaly": "-0.159"
+    },
+    {
+        "year": "1901",
+        "annual_anomaly": "-0.023",
+        "five-year_anomaly": "-0.143"
+    },
+    {
+        "year": "1902",
+        "annual_anomaly": "-0.236",
+        "five-year_anomaly": "-0.216"
+    },
+    {
+        "year": "1903",
+        "annual_anomaly": "-0.313",
+        "five-year_anomaly": "-0.27"
+    },
+    {
+        "year": "1904",
+        "annual_anomaly": "-0.474",
+        "five-year_anomaly": "-0.295"
+    },
+    {
+        "year": "1905",
+        "annual_anomaly": "-0.303",
+        "five-year_anomaly": "-0.358"
+    },
+    {
+        "year": "1906",
+        "annual_anomaly": "-0.147",
+        "five-year_anomaly": "-0.368"
+    },
+    {
+        "year": "1907",
+        "annual_anomaly": "-0.555",
+        "five-year_anomaly": "-0.346"
+    },
+    {
+        "year": "1908",
+        "annual_anomaly": "-0.362",
+        "five-year_anomaly": "-0.347"
+    },
+    {
+        "year": "1909",
+        "annual_anomaly": "-0.361",
+        "five-year_anomaly": "-0.389"
+    },
+    {
+        "year": "1910",
+        "annual_anomaly": "-0.311",
+        "five-year_anomaly": "-0.355"
+    },
+    {
+        "year": "1911",
+        "annual_anomaly": "-0.358",
+        "five-year_anomaly": "-0.338"
+    },
+    {
+        "year": "1912",
+        "annual_anomaly": "-0.383",
+        "five-year_anomaly": "-0.269"
+    },
+    {
+        "year": "1913",
+        "annual_anomaly": "-0.277",
+        "five-year_anomaly": "-0.212"
+    },
+    {
+        "year": "1914",
+        "annual_anomaly": "-0.015",
+        "five-year_anomaly": "-0.216"
+    },
+    {
+        "year": "1915",
+        "annual_anomaly": "-0.028",
+        "five-year_anomaly": "-0.251"
+    },
+    {
+        "year": "1916",
+        "annual_anomaly": "-0.377",
+        "five-year_anomaly": "-0.282"
+    },
+    {
+        "year": "1917",
+        "annual_anomaly": "-0.558",
+        "five-year_anomaly": "-0.315"
+    },
+    {
+        "year": "1918",
+        "annual_anomaly": "-0.434",
+        "five-year_anomaly": "-0.348"
+    },
+    {
+        "year": "1919",
+        "annual_anomaly": "-0.18",
+        "five-year_anomaly": "-0.27"
+    },
+    {
+        "year": "1920",
+        "annual_anomaly": "-0.192",
+        "five-year_anomaly": "-0.192"
+    },
+    {
+        "year": "1921",
+        "annual_anomaly": "0.014",
+        "five-year_anomaly": "-0.131"
+    },
+    {
+        "year": "1922",
+        "annual_anomaly": "-0.166",
+        "five-year_anomaly": "-0.107"
+    },
+    {
+        "year": "1923",
+        "annual_anomaly": "-0.132",
+        "five-year_anomaly": "-0.074"
+    },
+    {
+        "year": "1924",
+        "annual_anomaly": "-0.059",
+        "five-year_anomaly": "-0.051"
+    },
+    {
+        "year": "1925",
+        "annual_anomaly": "-0.027",
+        "five-year_anomaly": "-0.033"
+    },
+    {
+        "year": "1926",
+        "annual_anomaly": "0.129",
+        "five-year_anomaly": "0"
+    },
+    {
+        "year": "1927",
+        "annual_anomaly": "-0.075",
+        "five-year_anomaly": "-0.059"
+    },
+    {
+        "year": "1928",
+        "annual_anomaly": "0.034",
+        "five-year_anomaly": "-0.047"
+    },
+    {
+        "year": "1929",
+        "annual_anomaly": "-0.358",
+        "five-year_anomaly": "-0.044"
+    },
+    {
+        "year": "1930",
+        "annual_anomaly": "0.036",
+        "five-year_anomaly": "-0.005"
+    },
+    {
+        "year": "1931",
+        "annual_anomaly": "0.142",
+        "five-year_anomaly": "-0.058"
+    },
+    {
+        "year": "1932",
+        "annual_anomaly": "0.119",
+        "five-year_anomaly": "0.023"
+    },
+    {
+        "year": "1933",
+        "annual_anomaly": "-0.23",
+        "five-year_anomaly": "0.003"
+    },
+    {
+        "year": "1934",
+        "annual_anomaly": "0.049",
+        "five-year_anomaly": "-0.031"
+    },
+    {
+        "year": "1935",
+        "annual_anomaly": "-0.067",
+        "five-year_anomaly": "-0.033"
+    },
+    {
+        "year": "1936",
+        "annual_anomaly": "-0.025",
+        "five-year_anomaly": "0.07"
+    },
+    {
+        "year": "1937",
+        "annual_anomaly": "0.109",
+        "five-year_anomaly": "0.094"
+    },
+    {
+        "year": "1938",
+        "annual_anomaly": "0.281",
+        "five-year_anomaly": "0.133"
+    },
+    {
+        "year": "1939",
+        "annual_anomaly": "0.172",
+        "five-year_anomaly": "0.161"
+    },
+    {
+        "year": "1940",
+        "annual_anomaly": "0.127",
+        "five-year_anomaly": "0.153"
+    },
+    {
+        "year": "1941",
+        "annual_anomaly": "0.114",
+        "five-year_anomaly": "0.117"
+    },
+    {
+        "year": "1942",
+        "annual_anomaly": "0.072",
+        "five-year_anomaly": "0.119"
+    },
+    {
+        "year": "1943",
+        "annual_anomaly": "0.101",
+        "five-year_anomaly": "0.076"
+    },
+    {
+        "year": "1944",
+        "annual_anomaly": "0.182",
+        "five-year_anomaly": "0.055"
+    },
+    {
+        "year": "1945",
+        "annual_anomaly": "-0.089",
+        "five-year_anomaly": "0.067"
+    },
+    {
+        "year": "1946",
+        "annual_anomaly": "0.011",
+        "five-year_anomaly": "0.06"
+    },
+    {
+        "year": "1947",
+        "annual_anomaly": "0.132",
+        "five-year_anomaly": "0.002"
+    },
+    {
+        "year": "1948",
+        "annual_anomaly": "0.063",
+        "five-year_anomaly": "-0.044"
+    },
+    {
+        "year": "1949",
+        "annual_anomaly": "-0.105",
+        "five-year_anomaly": "-0.06"
+    },
+    {
+        "year": "1950",
+        "annual_anomaly": "-0.319",
+        "five-year_anomaly": "-0.09"
+    },
+    {
+        "year": "1951",
+        "annual_anomaly": "-0.069",
+        "five-year_anomaly": "-0.064"
+    },
+    {
+        "year": "1952",
+        "annual_anomaly": "-0.023",
+        "five-year_anomaly": "-0.067"
+    },
+    {
+        "year": "1953",
+        "annual_anomaly": "0.197",
+        "five-year_anomaly": "-0.017"
+    },
+    {
+        "year": "1954",
+        "annual_anomaly": "-0.124",
+        "five-year_anomaly": "-0.085"
+    },
+    {
+        "year": "1955",
+        "annual_anomaly": "-0.065",
+        "five-year_anomaly": "-0.084"
+    },
+    {
+        "year": "1956",
+        "annual_anomaly": "-0.409",
+        "five-year_anomaly": "-0.109"
+    },
+    {
+        "year": "1957",
+        "annual_anomaly": "-0.02",
+        "five-year_anomaly": "-0.072"
+    },
+    {
+        "year": "1958",
+        "annual_anomaly": "0.072",
+        "five-year_anomaly": "-0.08"
+    },
+    {
+        "year": "1959",
+        "annual_anomaly": "0.06",
+        "five-year_anomaly": "0.029"
+    },
+    {
+        "year": "1960",
+        "annual_anomaly": "-0.103",
+        "five-year_anomaly": "0.052"
+    },
+    {
+        "year": "1961",
+        "annual_anomaly": "0.134",
+        "five-year_anomaly": "0.079"
+    },
+    {
+        "year": "1962",
+        "annual_anomaly": "0.096",
+        "five-year_anomaly": "0.015"
+    },
+    {
+        "year": "1963",
+        "annual_anomaly": "0.209",
+        "five-year_anomaly": "0.01"
+    },
+    {
+        "year": "1964",
+        "annual_anomaly": "-0.261",
+        "five-year_anomaly": "-0.027"
+    },
+    {
+        "year": "1965",
+        "annual_anomaly": "-0.13",
+        "five-year_anomaly": "-0.035"
+    },
+    {
+        "year": "1966",
+        "annual_anomaly": "-0.051",
+        "five-year_anomaly": "-0.107"
+    },
+    {
+        "year": "1967",
+        "annual_anomaly": "0.056",
+        "five-year_anomaly": "-0.067"
+    },
+    {
+        "year": "1968",
+        "annual_anomaly": "-0.147",
+        "five-year_anomaly": "-0.029"
+    },
+    {
+        "year": "1969",
+        "annual_anomaly": "-0.066",
+        "five-year_anomaly": "-0.026"
+    },
+    {
+        "year": "1970",
+        "annual_anomaly": "0.065",
+        "five-year_anomaly": "-0.068"
+    },
+    {
+        "year": "1971",
+        "annual_anomaly": "-0.039",
+        "five-year_anomaly": "0.029"
+    },
+    {
+        "year": "1972",
+        "annual_anomaly": "-0.151",
+        "five-year_anomaly": "0.008"
+    },
+    {
+        "year": "1973",
+        "annual_anomaly": "0.335",
+        "five-year_anomaly": "0.019"
+    },
+    {
+        "year": "1974",
+        "annual_anomaly": "-0.169",
+        "five-year_anomaly": "-0.029"
+    },
+    {
+        "year": "1975",
+        "annual_anomaly": "0.118",
+        "five-year_anomaly": "0.048"
+    },
+    {
+        "year": "1976",
+        "annual_anomaly": "-0.277",
+        "five-year_anomaly": "-0.004"
+    },
+    {
+        "year": "1977",
+        "annual_anomaly": "0.233",
+        "five-year_anomaly": "0.049"
+    },
+    {
+        "year": "1978",
+        "annual_anomaly": "0.074",
+        "five-year_anomaly": "0.097"
+    },
+    {
+        "year": "1979",
+        "annual_anomaly": "0.095",
+        "five-year_anomaly": "0.26"
+    },
+    {
+        "year": "1980",
+        "annual_anomaly": "0.361",
+        "five-year_anomaly": "0.222"
+    },
+    {
+        "year": "1981",
+        "annual_anomaly": "0.539",
+        "five-year_anomaly": "0.29"
+    },
+    {
+        "year": "1982",
+        "annual_anomaly": "0.039",
+        "five-year_anomaly": "0.285"
+    },
+    {
+        "year": "1983",
+        "annual_anomaly": "0.414",
+        "five-year_anomaly": "0.222"
+    },
+    {
+        "year": "1984",
+        "annual_anomaly": "0.07",
+        "five-year_anomaly": "0.161"
+    },
+    {
+        "year": "1985",
+        "annual_anomaly": "0.049",
+        "five-year_anomaly": "0.232"
+    },
+    {
+        "year": "1986",
+        "annual_anomaly": "0.231",
+        "five-year_anomaly": "0.266"
+    },
+    {
+        "year": "1987",
+        "annual_anomaly": "0.395",
+        "five-year_anomaly": "0.315"
+    },
+    {
+        "year": "1988",
+        "annual_anomaly": "0.586",
+        "five-year_anomaly": "0.43"
+    },
+    {
+        "year": "1989",
+        "annual_anomaly": "0.312",
+        "five-year_anomaly": "0.501"
+    },
+    {
+        "year": "1990",
+        "annual_anomaly": "0.625",
+        "five-year_anomaly": "0.468"
+    },
+    {
+        "year": "1991",
+        "annual_anomaly": "0.589",
+        "five-year_anomaly": "0.407"
+    },
+    {
+        "year": "1992",
+        "annual_anomaly": "0.227",
+        "five-year_anomaly": "0.436"
+    },
+    {
+        "year": "1993",
+        "annual_anomaly": "0.283",
+        "five-year_anomaly": "0.466"
+    },
+    {
+        "year": "1994",
+        "annual_anomaly": "0.457",
+        "five-year_anomaly": "0.441"
+    },
+    {
+        "year": "1995",
+        "annual_anomaly": "0.771",
+        "five-year_anomaly": "0.516"
+    },
+    {
+        "year": "1996",
+        "annual_anomaly": "0.464",
+        "five-year_anomaly": "0.649"
+    },
+    {
+        "year": "1997",
+        "annual_anomaly": "0.605",
+        "five-year_anomaly": "0.699"
+    },
+    {
+        "year": "1998",
+        "annual_anomaly": "0.949",
+        "five-year_anomaly": "0.671"
+    },
+    {
+        "year": "1999",
+        "annual_anomaly": "0.704",
+        "five-year_anomaly": "0.746"
+    },
+    {
+        "year": "2000",
+        "annual_anomaly": "0.632",
+        "five-year_anomaly": "0.827"
+    },
+    {
+        "year": "2001",
+        "annual_anomaly": "0.842",
+        "five-year_anomaly": "0.828"
+    },
+    {
+        "year": "2002",
+        "annual_anomaly": "1.01",
+        "five-year_anomaly": "0.842"
+    },
+    {
+        "year": "2003",
+        "annual_anomaly": "0.953",
+        "five-year_anomaly": "0.95"
+    },
+    {
+        "year": "2004",
+        "annual_anomaly": "0.772",
+        "five-year_anomaly": "0.981"
+    },
+    {
+        "year": "2005",
+        "annual_anomaly": "1.172",
+        "five-year_anomaly": "1.018"
+    },
+    {
+        "year": "2006",
+        "annual_anomaly": "0.997",
+        "five-year_anomaly": "1.007"
+    },
+    {
+        "year": "2007",
+        "annual_anomaly": "1.196",
+        "five-year_anomaly": "1.053"
+    },
+    {
+        "year": "2008",
+        "annual_anomaly": "0.898",
+        "five-year_anomaly": "1.054"
+    },
+    {
+        "year": "2009",
+        "annual_anomaly": "1.001",
+        "five-year_anomaly": "1.056"
+    },
+    {
+        "year": "2010",
+        "annual_anomaly": "1.178",
+        "five-year_anomaly": "1.008"
+    },
+    {
+        "year": "2011",
+        "annual_anomaly": "1.005",
+        "five-year_anomaly": "1.045"
+    },
+    {
+        "year": "2012",
+        "annual_anomaly": "0.959",
+        "five-year_anomaly": "1.053"
+    },
+    {
+        "year": "2013",
+        "annual_anomaly": "1.08",
+        "five-year_anomaly": "1.078"
+    },
+    {
+        "year": "2014",
+        "annual_anomaly": "1.044",
+        "five-year_anomaly": "1.176"
+    },
+    {
+        "year": "2015",
+        "annual_anomaly": "1.304",
+        "five-year_anomaly": "1.257"
+    },
+    {
+        "year": "2016",
+        "annual_anomaly": "1.493",
+        "five-year_anomaly": "1.282"
+    },
+    {
+        "year": "2017",
+        "annual_anomaly": "1.364",
+        "five-year_anomaly": "1.353"
+    },
+    {
+        "year": "2018",
+        "annual_anomaly": "1.208",
+        "five-year_anomaly": "1.403"
+    },
+    {
+        "year": "2019",
+        "annual_anomaly": "1.395",
+        "five-year_anomaly": "1.364"
+    },
+    {
+        "year": "2020",
+        "annual_anomaly": "1.556",
+        "five-year_anomaly": "nan"
+    },
+    {
+        "year": "2021",
+        "annual_anomaly": "1.296",
+        "five-year_anomaly": "nan"
+    }
+]
